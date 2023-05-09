@@ -1,2 +1,2 @@
 # GoogleEarthEngine
-Moyenne de températures et précipitations par départments pour une région donnée
+Moyenne de températures et précipitations par départements pour une région donnée
